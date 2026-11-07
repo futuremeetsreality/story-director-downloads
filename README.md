@@ -21,10 +21,14 @@ oder später in den Einstellungen eingetragen werden. Anbieteraufrufe können Ko
 
 ## Aktualisieren
 
-In Story Director unter **Einstellungen → Nach Updates suchen** nachsehen.
-Laufende Aufträge abschließen, **Anwendung beenden** wählen und den neuen Installer
-im bisherigen Programmordner ausführen. Der Datenordner wird übernommen.
-Vor dem ersten Start einer neuen Version werden vorhandene Daten automatisch gesichert.
+Ab Version **1.1.0** unter **Einstellungen → Updates …** nachsehen und **Update herunterladen**
+wählen. Nach abgeschlossenen Aufträgen und gespeicherten Änderungen auf
+**Neustarten & aktualisieren** klicken. Ein eigenes Updatefenster sichert Daten und
+Programm, installiert im Hintergrund und startet Story Director wieder.
+
+Für ältere Versionen einmalig den aktuellen Installer herunterladen, Story Director
+über **Anwendung beenden** schließen und in den bisherigen Programmordner installieren.
+Der Datenordner wird übernommen. Danach erfolgen Updates direkt aus der Anwendung.
 
 Eine Deinstallation entfernt das Programm. Persönliche Geschichten im getrennten
 Datenordner bleiben erhalten. **Sicherung wiederherstellen** im Startmenü öffnet
