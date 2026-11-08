@@ -34,6 +34,22 @@ Ab Version **1.1.2** findest du in den Einstellungen:
 Das Schließen des Browserfensters beendet den Server nicht. Verwende dafür
 **Einstellungen → Server beenden**.
 
+## Lokale Nutzer
+
+Ab Version **1.1.3** öffnet der Nutzername **oben rechts** die **Nutzerauswahl**.
+Alternativ findest du sie unter **Einstellungen → Lokale Nutzer → Nutzer auswählen**.
+
+Der bisherige Datenbestand heißt zunächst **Standard** und lässt sich umbenennen.
+Mit **Nutzer anlegen** vergibst du einen Benutzernamen und einen getrennten Datenpfad.
+Wähle einen leeren Ordner für ein Testatelier oder einen vorhandenen Story-Director-
+Datenordner. Beim Auswählen werden die Daten geprüft, gesichert und mit einem
+geordneten Neustart geöffnet. Laufende Aufträge müssen vorher abgeschlossen sein.
+
+**Auswahleintrag entfernen** entfernt nur die Registrierung. Geschichten, Aufnahmen
+und Sicherungen bleiben im Datenordner erhalten; der aktive Nutzer ist geschützt.
+Die Auswahl bleibt über Updates erhalten. Sie verwaltet lokale Datenbestände und
+enthält keine Anmeldung mit Passwort oder Berechtigungsverwaltung.
+
 ## Aktualisieren
 
 Ab Version **1.1.0** unter **Einstellungen → Updates …** nachsehen und **Update herunterladen**
