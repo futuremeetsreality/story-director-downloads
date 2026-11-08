@@ -34,6 +34,8 @@ Ab Version **1.1.2** findest du in den Einstellungen:
 Das Schließen des Browserfensters beendet den Server nicht. Verwende dafür
 **Einstellungen → Server beenden**.
 
+Ab Version **1.1.4** öffnet die Ordner- und ZIP-Auswahl direkt den nativen Windows-Dateidialog. Für diese Auswahl wird kein PowerShell-Hilfsprozess gestartet. Vollständige Pfade können weiterhin direkt eingegeben werden.
+
 ## Lokale Nutzer
 
 Ab Version **1.1.3** öffnet der Nutzername **oben rechts** die **Nutzerauswahl**.
